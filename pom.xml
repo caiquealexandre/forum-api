@@ -13,7 +13,7 @@
 	<artifactId>forum</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>forum</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Projeto Spring Boot - Alura </description>
 
 	<properties>
 		<java.version>1.8</java.version>
